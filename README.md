@@ -20,7 +20,7 @@ The purpose of this analysis was to analyze the status of upcoming retiring empl
 ![count_retiring_titles](https://user-images.githubusercontent.com/101747213/169952432-29154fe8-2c39-43ef-8b78-dfda44655d05.jpg)
 
      -The final query finds the employees who are eligibile to be mentors based on birthdate and being a current employee.
-  ![alt text](mentorship_eligibility.jpg)
+  ![alt text](https://github.com/AshleyRMorgan/Pewlett-Hackard-Analysis/blob/aa07262a505da2958e77177bca23a77ed8c60be8/Screen%20Captures/mentorship_eligibility.jpg)
 
 ---
 
@@ -29,8 +29,8 @@ The purpose of this analysis was to analyze the status of upcoming retiring empl
 
      1. The total count of employees who can retire with the silver tsunami is 72,458. 
      This is the total possible number of roles needing to be filled.
-   ![alt text](total_count.jpg)
+   ![alt text](https://github.com/AshleyRMorgan/Pewlett-Hackard-Analysis/blob/aa07262a505da2958e77177bca23a77ed8c60be8/Screen%20Captures/total_count.jpg)
 
      2. Based on the count of mentorship eligible employees, 
      there will most likely be an issue with having enough mentors for new employees.
-   ![alt text](mentorship_eligibility_count.jpg)
+   ![alt text](https://github.com/AshleyRMorgan/Pewlett-Hackard-Analysis/blob/aa07262a505da2958e77177bca23a77ed8c60be8/Screen%20Captures/mentorship_eligibility_count.jpg)
