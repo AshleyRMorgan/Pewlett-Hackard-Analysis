@@ -39,7 +39,7 @@ The purpose of this analysis was to analyze the status of upcoming retiring empl
 
 ### **Contact**
 
-Email: [AshleyRae1219@gmail.com](ashleyrae1219@gmail.com)
+Email: [AshleyRae1219@gmail.com](mailto:ashleyrae1219@gmail.com)
 
 LinkedIn: [Ashley Morgan](https://www.linkedin.com/in/morganashleyr/)
 
